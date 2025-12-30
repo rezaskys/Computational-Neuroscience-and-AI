@@ -1,0 +1,1 @@
+Neuromatch projects: Implemented Feedback Alignment vs. BP/Hebbian for bio-plausible AI. Applied RL (DQN) for Lunar Lander tuning and Drift-Diffusion models for decision-making analysis. Focused on Python-based neural modeling, statistical data analysis, and hyperparameter optimization.
